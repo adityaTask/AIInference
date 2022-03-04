@@ -1,0 +1,15 @@
+{
+"args": {
+"path_to_model_directory": "D:\\AI-Sandeep\\in-srddevdb_sdb_rtm\\TRAINPROJ\\10862\\14114\\commoditycode\\Training\\_tmp",
+"model_filename_prefix": "14114",
+"path_to_annotations": "D:\\AI-Sandeep\\in-srddevdb_sdb_rtm\\TRAINPROJ\\10862\\14114\\commoditycode\\Training\\Annotations.json",
+"path_to_source_database": "D:\\AI-Sandeep\\in-srddevdb_sdb_rtm\\TRAINPROJ\\10862\\14114\\commoditycode\\Training\\source.json",
+"path_to_target_database": "D:\\AI-Sandeep\\in-srddevdb_sdb_rtm\\TRAINPROJ\\10862\\14114\\commoditycode\\Training\\target.json",
+"cpu_cores": "4",
+"benchmark": "True",
+"recursive_search": "True",
+"additional_filtering": ""
+},
+"version": "03.00.00.0024",
+"time": "02-09-2021 12:46:40"
+}

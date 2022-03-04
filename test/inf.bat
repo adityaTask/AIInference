@@ -1,0 +1,1 @@
+description-mapping-inference-cpu-standalone.exe --path_to_model_directory .\Training\model --model_filename_prefix 14114 --host 127.0.0.1 --port 443 --api_key 123 --ssl_keyfile mycert.pem --ssl_certfile mycert.pem --ssl_ciphers TLSv1 --log_level warning --recursive_search --additional_filtering --path_to_target_database .\Training\target.json

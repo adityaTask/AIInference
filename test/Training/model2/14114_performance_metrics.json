@@ -1,0 +1,6 @@
+{
+"ConfidenceAllEntries": 0.9,
+"ConfidenceUnlabeledEntries": 0.9,
+"ConfidenceLabeledEntries": 0.9,
+"AccuracyLabeledEntries": 0.98
+}

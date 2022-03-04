@@ -1,0 +1,15 @@
+{
+"args": {
+"path_to_model_directory": "Training\\model2",
+"model_filename_prefix": "14114",
+"path_to_annotations": "Training\\annotations.json",
+"path_to_source_database": "Training\\source.json",
+"path_to_target_database": "Training\\target.json",
+"cpu_cores": "4",
+"benchmark": "True",
+"recursive_search": "True",
+"additional_filtering": "True"
+},
+"version": "03.00.02.0032",
+"time": "22-02-2022 12:19:56"
+}
